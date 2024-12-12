@@ -1,0 +1,11 @@
+bazar=["","",""]
+while true:
+    opcion=input("menu de opciones\n1-agregar producto\n2-eliminarproducto\n3-modificar\n4-mostrar\n5-salir")
+    if opcion=="1":
+        elementoAgregar=imput("ingresa elemnto a agregar")
+        l.append(elementoAgregar)
+    elif opcion=="2":
+        
+
+   
+    

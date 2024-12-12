@@ -1,0 +1,4 @@
+clima=input ("ingrese clima")
+if clima=="lluvioso":
+print("hoy se hiza la  bandera")
+else: print("hoy se hiza la bandera")
